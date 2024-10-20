@@ -19,7 +19,6 @@ text-align:center;
 
 const NavLink = styled(Link)`
 display:block;
-
 font-size: 1.7rem;
     color:#4c2882;
     background: #EEEEEE;
@@ -28,6 +27,7 @@ font-size: 1.7rem;
     padding:.8rem 3rem;
     text-decoration:none;
     padding: 1rem;
+    margin-top:10px;
    
 
     
